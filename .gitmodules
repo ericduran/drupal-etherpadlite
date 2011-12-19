@@ -1,0 +1,3 @@
+[submodule "libs/etherpadlite_client"]
+	path = libs/etherpadlite_client
+	url = git://github.com/TomNomNom/etherpad-lite-client.git
